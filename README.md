@@ -9,4 +9,7 @@ express, mysql, body-parser, and hbs
 or just type the following in the command promp:
 npm install --save express mysql body-parser hbs
 
+Just type this in the cmd or terminal to run:
+http://localhost:8000/
+
 thank you! :)
